@@ -1,0 +1,501 @@
+Booking ID,Customer ID,Booking Date,Check-in Date,Check-out Date,Booking Platform,Payment Method,Loyalty Membership Status,Room Type,Booking Amount,Discount Applied,Cancellation Status
+BK00001,CUST2856,2024-01-30,2024-02-22,2024-02-29,Website,Credit Card,Non-Member,Standard,510.03,5,Yes
+BK00002,CUST5751,2024-01-17,2024-01-20,2024-01-27,Mobile App,Bank Transfer,Ambassador,Suite,699.68,25,No
+BK00003,CUST4045,2024-03-08,2024-03-21,2024-03-26,Mobile App,Credit Card,Titanium,Deluxe,392.16,15,No
+BK00004,CUST5384,2024-02-13,2024-03-08,2024-03-14,Website,PayPal,Platinum,Deluxe,363.17,25,No
+BK00005,CUST8257,2024-03-19,2024-03-26,2024-03-31,Website,Points Redemption,Ambassador,Suite,155.36,20,No
+BK00006,CUST6040,2024-03-20,2024-03-26,2024-03-30,Mobile App,Points Redemption,Gold,Standard,1000.69,20,No
+BK00007,CUST9555,2024-02-23,2024-03-11,2024-03-17,Website,Bank Transfer,Ambassador,Deluxe,940.72,25,Yes
+BK00008,CUST1235,2024-02-02,2024-02-29,2024-03-06,Website,Points Redemption,Platinum,Suite,1465.74,5,No
+BK00009,CUST9997,2024-03-06,2024-03-11,2024-03-16,Third-Party OTA,Bank Transfer,Ambassador,Suite,147.96,10,No
+BK00010,CUST3135,2024-01-19,2024-01-22,2024-01-29,Mobile App,Credit Card,Titanium,Presidential Suite,974.93,10,No
+BK00011,CUST5878,2024-01-02,2024-01-21,2024-01-23,Mobile App,Credit Card,Titanium,Presidential Suite,427.16,10,No
+BK00012,CUST4210,2024-03-03,2024-03-16,2024-03-19,Third-Party OTA,PayPal,Titanium,Deluxe,1092.81,25,Yes
+BK00013,CUST7116,2024-03-30,2024-04-10,2024-04-19,Website,PayPal,Silver,Standard,898.9,5,Yes
+BK00014,CUST6839,2024-01-04,2024-01-31,2024-02-06,Third-Party OTA,Bank Transfer,Gold,Presidential Suite,393.0,20,Yes
+BK00015,CUST6066,2024-01-09,2024-01-28,2024-02-02,Third-Party OTA,Credit Card,Titanium,Suite,1135.62,10,No
+BK00016,CUST4688,2024-02-26,2024-03-13,2024-03-20,Third-Party OTA,PayPal,Ambassador,Suite,573.47,25,Yes
+BK00017,CUST8331,2024-02-17,2024-03-05,2024-03-14,Website,Credit Card,Gold,Deluxe,549.49,5,No
+BK00018,CUST1537,2024-02-09,2024-03-10,2024-03-13,Website,Bank Transfer,Platinum,Presidential Suite,350.77,15,Yes
+BK00019,CUST3551,2024-03-21,2024-04-03,2024-04-09,Third-Party OTA,Credit Card,Gold,Standard,617.07,5,Yes
+BK00020,CUST6838,2024-02-20,2024-03-05,2024-03-10,Third-Party OTA,Credit Card,Titanium,Suite,591.61,25,Yes
+BK00021,CUST9647,2024-01-29,2024-02-07,2024-02-15,Website,Credit Card,Platinum,Presidential Suite,1295.23,25,No
+BK00022,CUST7864,2024-02-17,2024-02-24,2024-02-29,Mobile App,Points Redemption,Ambassador,Suite,1292.31,25,Yes
+BK00023,CUST3704,2024-03-13,2024-04-05,2024-04-14,Mobile App,Points Redemption,Gold,Standard,1264.22,0,No
+BK00024,CUST9160,2024-03-15,2024-03-29,2024-04-07,Website,Bank Transfer,Titanium,Presidential Suite,850.96,25,No
+BK00025,CUST3191,2024-03-25,2024-04-18,2024-04-22,Website,Credit Card,Platinum,Standard,1161.21,20,Yes
+BK00026,CUST5834,2024-01-02,2024-01-28,2024-02-06,Third-Party OTA,PayPal,Silver,Deluxe,450.89,20,Yes
+BK00027,CUST7773,2024-02-17,2024-03-08,2024-03-11,Third-Party OTA,Bank Transfer,Silver,Presidential Suite,360.16,10,No
+BK00028,CUST6510,2024-01-19,2024-02-05,2024-02-12,Mobile App,Bank Transfer,Non-Member,Standard,204.65,15,No
+BK00029,CUST8683,2024-02-01,2024-02-19,2024-02-21,Third-Party OTA,Credit Card,Titanium,Standard,1369.05,20,Yes
+BK00030,CUST4001,2024-02-18,2024-03-02,2024-03-03,Third-Party OTA,Bank Transfer,Platinum,Presidential Suite,1204.22,15,No
+BK00031,CUST7967,2024-02-07,2024-02-16,2024-02-26,Third-Party OTA,PayPal,Non-Member,Deluxe,1071.95,15,Yes
+BK00032,CUST9253,2024-01-03,2024-01-10,2024-01-15,Mobile App,Bank Transfer,Ambassador,Suite,905.08,0,No
+BK00033,CUST9894,2024-01-28,2024-02-09,2024-02-17,Third-Party OTA,PayPal,Silver,Presidential Suite,761.26,0,Yes
+BK00034,CUST4276,2024-01-20,2024-02-14,2024-02-15,Third-Party OTA,Bank Transfer,Silver,Standard,1449.36,15,Yes
+BK00035,CUST9471,2024-03-03,2024-03-07,2024-03-10,Third-Party OTA,Bank Transfer,Non-Member,Suite,999.97,0,Yes
+BK00036,CUST6880,2024-03-16,2024-04-05,2024-04-08,Third-Party OTA,Points Redemption,Silver,Standard,1191.07,20,No
+BK00037,CUST1296,2024-03-08,2024-04-06,2024-04-11,Third-Party OTA,Bank Transfer,Platinum,Deluxe,1266.65,10,No
+BK00038,CUST2933,2024-01-23,2024-02-11,2024-02-13,Website,PayPal,Non-Member,Deluxe,516.05,10,No
+BK00039,CUST4129,2024-02-12,2024-02-17,2024-02-22,Website,PayPal,Platinum,Suite,746.54,5,Yes
+BK00040,CUST3261,2024-03-15,2024-03-18,2024-03-27,Website,Credit Card,Non-Member,Standard,121.61,10,No
+BK00041,CUST1316,2024-02-14,2024-03-07,2024-03-08,Third-Party OTA,Credit Card,Platinum,Standard,782.33,10,Yes
+BK00042,CUST1844,2024-03-31,2024-04-24,2024-04-27,Third-Party OTA,Bank Transfer,Ambassador,Deluxe,599.15,10,Yes
+BK00043,CUST2374,2024-02-13,2024-03-06,2024-03-07,Mobile App,Bank Transfer,Silver,Suite,1166.56,5,No
+BK00044,CUST8494,2024-02-15,2024-03-07,2024-03-13,Mobile App,Points Redemption,Ambassador,Standard,1331.55,20,Yes
+BK00045,CUST6332,2024-01-13,2024-01-15,2024-01-25,Third-Party OTA,PayPal,Silver,Presidential Suite,398.72,0,No
+BK00046,CUST1190,2024-01-30,2024-02-23,2024-02-27,Website,Points Redemption,Gold,Presidential Suite,1137.07,0,Yes
+BK00047,CUST7866,2024-03-24,2024-04-10,2024-04-17,Mobile App,PayPal,Ambassador,Deluxe,1386.89,0,Yes
+BK00048,CUST3607,2024-03-28,2024-04-22,2024-04-24,Website,Bank Transfer,Ambassador,Standard,777.35,5,No
+BK00049,CUST3826,2024-02-19,2024-02-24,2024-02-29,Website,Bank Transfer,Titanium,Presidential Suite,1334.75,10,No
+BK00050,CUST1042,2024-01-02,2024-01-20,2024-01-23,Website,Bank Transfer,Platinum,Standard,863.59,20,Yes
+BK00051,CUST9384,2024-01-31,2024-02-22,2024-02-28,Third-Party OTA,Credit Card,Titanium,Deluxe,413.42,25,Yes
+BK00052,CUST3416,2024-01-20,2024-01-22,2024-01-27,Mobile App,PayPal,Platinum,Presidential Suite,570.36,15,No
+BK00053,CUST8973,2024-03-12,2024-03-29,2024-04-04,Website,Bank Transfer,Titanium,Standard,599.59,25,No
+BK00054,CUST7005,2024-03-27,2024-04-10,2024-04-13,Third-Party OTA,Credit Card,Titanium,Presidential Suite,885.59,20,Yes
+BK00055,CUST4595,2024-02-07,2024-03-07,2024-03-08,Website,Credit Card,Silver,Deluxe,1095.8,5,Yes
+BK00056,CUST2862,2024-01-09,2024-02-03,2024-02-06,Website,Bank Transfer,Ambassador,Presidential Suite,807.27,20,Yes
+BK00057,CUST3939,2024-03-07,2024-03-30,2024-04-04,Website,Bank Transfer,Non-Member,Presidential Suite,1294.18,0,Yes
+BK00058,CUST2249,2024-01-29,2024-02-03,2024-02-11,Mobile App,Bank Transfer,Silver,Suite,1409.73,5,No
+BK00059,CUST6836,2024-03-10,2024-03-12,2024-03-17,Mobile App,PayPal,Non-Member,Standard,301.74,20,No
+BK00060,CUST7224,2024-03-08,2024-03-29,2024-04-04,Mobile App,Credit Card,Ambassador,Deluxe,826.06,5,No
+BK00061,CUST4389,2024-02-23,2024-03-11,2024-03-19,Mobile App,Bank Transfer,Non-Member,Suite,980.06,5,No
+BK00062,CUST9867,2024-02-05,2024-02-22,2024-02-27,Third-Party OTA,PayPal,Non-Member,Deluxe,1461.83,10,No
+BK00063,CUST1737,2024-03-08,2024-03-21,2024-03-31,Third-Party OTA,PayPal,Silver,Suite,1027.8,5,No
+BK00064,CUST5937,2024-01-27,2024-02-11,2024-02-12,Mobile App,Bank Transfer,Platinum,Presidential Suite,1338.07,0,Yes
+BK00065,CUST3473,2024-03-09,2024-03-23,2024-03-24,Third-Party OTA,Credit Card,Ambassador,Standard,1345.61,25,No
+BK00066,CUST8550,2024-02-28,2024-03-26,2024-03-30,Website,Points Redemption,Titanium,Presidential Suite,291.49,25,Yes
+BK00067,CUST5327,2024-02-02,2024-02-03,2024-02-07,Website,Points Redemption,Silver,Deluxe,1091.15,20,No
+BK00068,CUST1937,2024-03-23,2024-03-29,2024-03-30,Mobile App,Points Redemption,Titanium,Presidential Suite,1099.6,20,No
+BK00069,CUST7862,2024-01-16,2024-02-15,2024-02-17,Website,PayPal,Non-Member,Suite,1223.21,15,Yes
+BK00070,CUST9828,2024-02-15,2024-02-24,2024-02-27,Mobile App,Credit Card,Titanium,Presidential Suite,137.54,15,Yes
+BK00071,CUST4182,2024-01-25,2024-02-07,2024-02-12,Mobile App,Credit Card,Silver,Standard,411.62,20,No
+BK00072,CUST7698,2024-03-26,2024-04-22,2024-04-23,Website,Points Redemption,Gold,Suite,995.27,0,No
+BK00073,CUST2003,2024-02-25,2024-02-26,2024-03-03,Mobile App,PayPal,Titanium,Standard,697.57,5,No
+BK00074,CUST4252,2024-02-28,2024-03-11,2024-03-14,Third-Party OTA,PayPal,Non-Member,Suite,1027.05,5,Yes
+BK00075,CUST9206,2024-03-31,2024-04-07,2024-04-15,Third-Party OTA,PayPal,Platinum,Deluxe,1115.43,5,No
+BK00076,CUST4531,2024-02-08,2024-03-01,2024-03-08,Third-Party OTA,Bank Transfer,Titanium,Suite,990.36,5,Yes
+BK00077,CUST9253,2024-03-06,2024-03-09,2024-03-14,Third-Party OTA,PayPal,Titanium,Suite,571.21,25,No
+BK00078,CUST3119,2024-03-16,2024-04-11,2024-04-21,Website,Points Redemption,Platinum,Presidential Suite,944.24,5,No
+BK00079,CUST9465,2024-01-05,2024-01-09,2024-01-18,Third-Party OTA,Credit Card,Non-Member,Deluxe,1332.97,15,Yes
+BK00080,CUST8395,2024-02-10,2024-02-23,2024-03-02,Third-Party OTA,PayPal,Silver,Presidential Suite,1423.91,20,No
+BK00081,CUST5400,2024-02-07,2024-03-01,2024-03-10,Website,Bank Transfer,Silver,Deluxe,1277.61,5,No
+BK00082,CUST1078,2024-01-14,2024-01-23,2024-01-24,Website,Bank Transfer,Titanium,Presidential Suite,863.66,20,No
+BK00083,CUST1924,2024-02-20,2024-03-18,2024-03-19,Third-Party OTA,PayPal,Ambassador,Standard,343.87,25,No
+BK00084,CUST8762,2024-01-24,2024-02-17,2024-02-26,Third-Party OTA,PayPal,Gold,Deluxe,515.4,15,No
+BK00085,CUST3663,2024-02-06,2024-02-23,2024-02-24,Third-Party OTA,Points Redemption,Titanium,Deluxe,182.41,5,No
+BK00086,CUST2210,2024-03-13,2024-03-14,2024-03-21,Website,PayPal,Non-Member,Deluxe,514.92,15,Yes
+BK00087,CUST3307,2024-02-09,2024-02-15,2024-02-21,Website,Points Redemption,Ambassador,Standard,358.17,20,Yes
+BK00088,CUST9101,2024-01-24,2024-02-15,2024-02-17,Website,Points Redemption,Titanium,Presidential Suite,1085.48,0,No
+BK00089,CUST9021,2024-03-24,2024-04-22,2024-04-23,Mobile App,PayPal,Gold,Standard,1171.49,5,Yes
+BK00090,CUST4590,2024-03-12,2024-03-22,2024-03-28,Third-Party OTA,Credit Card,Ambassador,Suite,1301.18,15,No
+BK00091,CUST3236,2024-02-26,2024-02-28,2024-03-03,Website,Bank Transfer,Titanium,Standard,685.1,25,No
+BK00092,CUST7164,2024-01-09,2024-01-18,2024-01-22,Mobile App,Bank Transfer,Ambassador,Suite,215.35,0,No
+BK00093,CUST4171,2024-02-20,2024-03-06,2024-03-11,Third-Party OTA,Points Redemption,Platinum,Suite,574.77,20,Yes
+BK00094,CUST4412,2024-01-12,2024-01-18,2024-01-24,Third-Party OTA,PayPal,Titanium,Standard,842.59,5,No
+BK00095,CUST2587,2024-01-31,2024-02-20,2024-02-29,Mobile App,Credit Card,Platinum,Deluxe,1178.2,15,No
+BK00096,CUST3840,2024-03-01,2024-03-08,2024-03-16,Mobile App,PayPal,Silver,Deluxe,790.42,15,Yes
+BK00097,CUST8730,2024-01-11,2024-01-23,2024-01-28,Website,Bank Transfer,Gold,Deluxe,1071.67,25,Yes
+BK00098,CUST8477,2024-03-09,2024-04-08,2024-04-11,Website,PayPal,Ambassador,Presidential Suite,215.85,0,No
+BK00099,CUST9975,2024-02-15,2024-03-07,2024-03-11,Mobile App,Points Redemption,Ambassador,Presidential Suite,119.1,15,Yes
+BK00100,CUST9205,2024-01-19,2024-01-31,2024-02-07,Website,PayPal,Ambassador,Presidential Suite,183.71,20,Yes
+BK00101,CUST1982,2024-01-29,2024-02-14,2024-02-23,Website,Credit Card,Silver,Deluxe,1336.46,25,No
+BK00102,CUST1304,2024-03-25,2024-04-21,2024-04-25,Mobile App,Bank Transfer,Titanium,Presidential Suite,1046.37,10,No
+BK00103,CUST3855,2024-02-05,2024-02-07,2024-02-09,Third-Party OTA,Credit Card,Platinum,Deluxe,148.47,10,No
+BK00104,CUST1752,2024-03-24,2024-04-05,2024-04-10,Third-Party OTA,Bank Transfer,Gold,Suite,585.65,20,No
+BK00105,CUST5930,2024-01-24,2024-02-22,2024-02-28,Third-Party OTA,Bank Transfer,Titanium,Deluxe,807.57,5,No
+BK00106,CUST4272,2024-02-16,2024-03-17,2024-03-22,Third-Party OTA,Points Redemption,Ambassador,Presidential Suite,770.42,15,Yes
+BK00107,CUST7917,2024-02-24,2024-03-24,2024-03-25,Website,PayPal,Platinum,Standard,1166.13,25,Yes
+BK00108,CUST6463,2024-02-18,2024-02-21,2024-03-01,Mobile App,Credit Card,Titanium,Deluxe,1272.79,15,Yes
+BK00109,CUST1082,2024-02-10,2024-02-28,2024-03-09,Website,Points Redemption,Gold,Suite,378.33,20,No
+BK00110,CUST2226,2024-03-11,2024-03-23,2024-03-25,Third-Party OTA,Credit Card,Ambassador,Presidential Suite,1230.72,0,Yes
+BK00111,CUST7888,2024-03-09,2024-04-07,2024-04-08,Website,PayPal,Gold,Suite,1072.76,10,Yes
+BK00112,CUST9676,2024-03-20,2024-03-26,2024-03-27,Website,Points Redemption,Gold,Deluxe,1370.83,25,No
+BK00113,CUST5370,2024-02-02,2024-02-05,2024-02-07,Mobile App,Points Redemption,Titanium,Suite,1315.11,15,No
+BK00114,CUST4359,2024-02-19,2024-03-17,2024-03-23,Mobile App,Credit Card,Gold,Suite,425.98,0,No
+BK00115,CUST7957,2024-02-12,2024-02-23,2024-03-03,Website,Credit Card,Ambassador,Suite,514.8,10,No
+BK00116,CUST6777,2024-03-17,2024-03-30,2024-04-08,Third-Party OTA,PayPal,Platinum,Standard,1089.07,0,No
+BK00117,CUST8334,2024-01-31,2024-02-03,2024-02-04,Third-Party OTA,PayPal,Ambassador,Presidential Suite,645.33,15,Yes
+BK00118,CUST6672,2024-03-11,2024-03-24,2024-04-01,Website,PayPal,Ambassador,Deluxe,227.88,0,Yes
+BK00119,CUST1053,2024-02-14,2024-03-07,2024-03-17,Website,Bank Transfer,Gold,Standard,1047.53,15,Yes
+BK00120,CUST4957,2024-01-10,2024-02-07,2024-02-12,Third-Party OTA,PayPal,Ambassador,Standard,573.98,0,Yes
+BK00121,CUST7942,2024-03-02,2024-03-04,2024-03-09,Mobile App,Credit Card,Non-Member,Deluxe,447.67,25,Yes
+BK00122,CUST2234,2024-03-09,2024-03-17,2024-03-27,Third-Party OTA,PayPal,Non-Member,Suite,1446.02,25,No
+BK00123,CUST5135,2024-01-27,2024-02-23,2024-02-27,Third-Party OTA,Bank Transfer,Platinum,Standard,244.77,15,Yes
+BK00124,CUST7369,2024-03-10,2024-04-01,2024-04-07,Third-Party OTA,PayPal,Non-Member,Suite,418.43,10,Yes
+BK00125,CUST7790,2024-02-21,2024-03-21,2024-03-30,Third-Party OTA,Bank Transfer,Silver,Presidential Suite,483.87,25,Yes
+BK00126,CUST2922,2024-02-25,2024-03-07,2024-03-13,Third-Party OTA,PayPal,Non-Member,Deluxe,1454.41,25,Yes
+BK00127,CUST5414,2024-01-29,2024-02-07,2024-02-12,Mobile App,Points Redemption,Ambassador,Standard,1342.28,0,Yes
+BK00128,CUST7602,2024-01-25,2024-02-10,2024-02-12,Website,PayPal,Non-Member,Standard,269.2,15,No
+BK00129,CUST4954,2024-01-15,2024-02-08,2024-02-17,Website,Credit Card,Titanium,Presidential Suite,1005.82,10,No
+BK00130,CUST7199,2024-03-17,2024-04-13,2024-04-16,Third-Party OTA,Points Redemption,Ambassador,Standard,372.43,15,No
+BK00131,CUST3249,2024-01-11,2024-01-16,2024-01-26,Mobile App,PayPal,Ambassador,Deluxe,574.17,15,No
+BK00132,CUST4513,2024-02-14,2024-03-13,2024-03-23,Third-Party OTA,Points Redemption,Non-Member,Standard,222.51,0,Yes
+BK00133,CUST9988,2024-01-13,2024-02-04,2024-02-10,Mobile App,PayPal,Silver,Standard,671.46,25,No
+BK00134,CUST4651,2024-03-13,2024-03-14,2024-03-21,Mobile App,PayPal,Non-Member,Standard,1091.0,20,Yes
+BK00135,CUST9192,2024-03-18,2024-04-09,2024-04-19,Third-Party OTA,Points Redemption,Ambassador,Standard,1497.98,0,Yes
+BK00136,CUST9752,2024-02-03,2024-02-28,2024-03-02,Mobile App,Points Redemption,Gold,Suite,776.77,0,No
+BK00137,CUST8770,2024-01-03,2024-01-05,2024-01-15,Third-Party OTA,Points Redemption,Titanium,Standard,576.01,0,Yes
+BK00138,CUST3572,2024-01-04,2024-01-05,2024-01-07,Mobile App,Points Redemption,Gold,Standard,1074.04,10,No
+BK00139,CUST3056,2024-01-05,2024-02-03,2024-02-06,Website,Credit Card,Titanium,Presidential Suite,1107.73,5,No
+BK00140,CUST4846,2024-01-30,2024-02-27,2024-03-02,Website,PayPal,Non-Member,Deluxe,189.15,0,No
+BK00141,CUST3189,2024-02-07,2024-03-01,2024-03-02,Mobile App,PayPal,Platinum,Deluxe,586.81,5,No
+BK00142,CUST5408,2024-01-21,2024-02-05,2024-02-11,Mobile App,Bank Transfer,Silver,Presidential Suite,273.16,20,No
+BK00143,CUST9424,2024-01-22,2024-02-10,2024-02-17,Third-Party OTA,Bank Transfer,Silver,Standard,1474.49,20,Yes
+BK00144,CUST9111,2024-03-27,2024-04-22,2024-05-01,Mobile App,Bank Transfer,Platinum,Presidential Suite,968.94,25,No
+BK00145,CUST1381,2024-01-10,2024-01-21,2024-01-24,Third-Party OTA,Points Redemption,Titanium,Presidential Suite,1183.14,10,No
+BK00146,CUST4701,2024-02-27,2024-03-27,2024-03-30,Third-Party OTA,Credit Card,Non-Member,Presidential Suite,943.23,15,Yes
+BK00147,CUST2169,2024-02-09,2024-03-05,2024-03-13,Third-Party OTA,Bank Transfer,Gold,Deluxe,384.12,20,No
+BK00148,CUST9900,2024-03-20,2024-04-19,2024-04-25,Mobile App,Bank Transfer,Gold,Presidential Suite,796.63,0,Yes
+BK00149,CUST9759,2024-01-18,2024-01-31,2024-02-08,Third-Party OTA,Credit Card,Silver,Deluxe,1227.14,15,No
+BK00150,CUST7508,2024-03-24,2024-04-05,2024-04-15,Mobile App,Points Redemption,Titanium,Standard,1037.51,0,No
+BK00151,CUST2673,2024-03-26,2024-04-16,2024-04-24,Mobile App,Credit Card,Silver,Standard,981.11,20,Yes
+BK00152,CUST8323,2024-01-26,2024-02-19,2024-02-26,Website,Bank Transfer,Ambassador,Standard,1232.91,5,Yes
+BK00153,CUST8255,2024-03-30,2024-04-04,2024-04-10,Website,Points Redemption,Ambassador,Deluxe,465.06,20,No
+BK00154,CUST6015,2024-02-01,2024-02-14,2024-02-23,Mobile App,PayPal,Silver,Standard,549.1,10,No
+BK00155,CUST3634,2024-02-21,2024-03-20,2024-03-28,Website,Credit Card,Platinum,Deluxe,1172.74,20,No
+BK00156,CUST1623,2024-03-04,2024-03-20,2024-03-26,Mobile App,Points Redemption,Gold,Suite,1391.11,15,No
+BK00157,CUST5971,2024-03-05,2024-03-25,2024-04-04,Third-Party OTA,Bank Transfer,Ambassador,Standard,1489.97,25,Yes
+BK00158,CUST7300,2024-02-09,2024-02-25,2024-02-29,Website,Points Redemption,Non-Member,Deluxe,625.06,5,Yes
+BK00159,CUST3726,2024-02-12,2024-02-23,2024-02-28,Mobile App,Points Redemption,Gold,Suite,665.56,5,Yes
+BK00160,CUST5108,2024-03-04,2024-04-01,2024-04-10,Mobile App,Points Redemption,Ambassador,Presidential Suite,264.33,10,Yes
+BK00161,CUST2119,2024-02-15,2024-02-20,2024-03-01,Website,Points Redemption,Silver,Standard,101.2,10,Yes
+BK00162,CUST5672,2024-01-12,2024-02-04,2024-02-10,Website,PayPal,Titanium,Presidential Suite,1152.41,20,No
+BK00163,CUST5632,2024-02-07,2024-02-23,2024-03-04,Mobile App,Points Redemption,Titanium,Deluxe,982.34,5,Yes
+BK00164,CUST4691,2024-03-29,2024-04-21,2024-04-25,Third-Party OTA,Bank Transfer,Non-Member,Deluxe,1003.29,20,Yes
+BK00165,CUST4849,2024-02-23,2024-03-07,2024-03-16,Website,Credit Card,Silver,Presidential Suite,169.96,0,No
+BK00166,CUST2298,2024-01-19,2024-01-25,2024-01-31,Website,Points Redemption,Platinum,Deluxe,189.48,10,No
+BK00167,CUST6718,2024-03-09,2024-03-19,2024-03-29,Third-Party OTA,PayPal,Ambassador,Deluxe,961.74,10,Yes
+BK00168,CUST4014,2024-01-06,2024-01-07,2024-01-16,Website,Points Redemption,Gold,Deluxe,657.19,10,No
+BK00169,CUST2286,2024-01-18,2024-01-30,2024-02-06,Mobile App,PayPal,Ambassador,Suite,609.3,25,Yes
+BK00170,CUST6251,2024-03-16,2024-03-27,2024-03-31,Website,Points Redemption,Ambassador,Presidential Suite,1284.37,25,No
+BK00171,CUST4220,2024-03-12,2024-03-19,2024-03-26,Third-Party OTA,PayPal,Silver,Presidential Suite,1236.61,20,No
+BK00172,CUST3494,2024-01-07,2024-01-15,2024-01-24,Website,Points Redemption,Platinum,Standard,377.09,25,Yes
+BK00173,CUST7127,2024-01-24,2024-01-28,2024-02-06,Third-Party OTA,Credit Card,Non-Member,Suite,800.48,15,No
+BK00174,CUST3972,2024-02-15,2024-03-13,2024-03-22,Website,Bank Transfer,Gold,Deluxe,1051.93,10,No
+BK00175,CUST2268,2024-03-08,2024-03-25,2024-03-28,Third-Party OTA,PayPal,Silver,Suite,124.16,5,No
+BK00176,CUST4287,2024-03-12,2024-04-10,2024-04-14,Third-Party OTA,Credit Card,Non-Member,Presidential Suite,952.16,15,No
+BK00177,CUST9936,2024-03-11,2024-04-02,2024-04-09,Mobile App,Points Redemption,Gold,Standard,164.44,25,No
+BK00178,CUST4208,2024-03-09,2024-03-25,2024-04-04,Third-Party OTA,Bank Transfer,Silver,Presidential Suite,1250.98,5,No
+BK00179,CUST4140,2024-03-20,2024-04-10,2024-04-12,Website,Credit Card,Platinum,Deluxe,1143.91,0,No
+BK00180,CUST2247,2024-03-31,2024-04-25,2024-04-29,Website,Bank Transfer,Titanium,Suite,919.53,0,No
+BK00181,CUST7465,2024-03-11,2024-03-13,2024-03-23,Mobile App,Points Redemption,Silver,Presidential Suite,352.45,15,No
+BK00182,CUST3565,2024-03-30,2024-04-11,2024-04-17,Mobile App,Credit Card,Silver,Presidential Suite,975.31,10,No
+BK00183,CUST8817,2024-01-06,2024-01-17,2024-01-25,Mobile App,PayPal,Titanium,Standard,893.46,0,No
+BK00184,CUST9769,2024-01-21,2024-01-31,2024-02-08,Third-Party OTA,Points Redemption,Gold,Standard,483.35,5,Yes
+BK00185,CUST6556,2024-03-04,2024-03-11,2024-03-15,Mobile App,PayPal,Silver,Suite,787.96,10,No
+BK00186,CUST9178,2024-03-21,2024-03-22,2024-03-24,Mobile App,PayPal,Non-Member,Suite,1007.37,25,Yes
+BK00187,CUST1703,2024-02-02,2024-02-23,2024-02-28,Website,Points Redemption,Platinum,Deluxe,466.08,5,No
+BK00188,CUST5790,2024-02-25,2024-03-01,2024-03-02,Website,Credit Card,Silver,Suite,128.44,20,No
+BK00189,CUST9129,2024-01-17,2024-02-08,2024-02-15,Website,Bank Transfer,Platinum,Deluxe,283.74,15,No
+BK00190,CUST2683,2024-02-18,2024-03-13,2024-03-21,Website,Bank Transfer,Titanium,Standard,221.61,25,No
+BK00191,CUST4064,2024-02-03,2024-02-09,2024-02-14,Third-Party OTA,Points Redemption,Titanium,Deluxe,1404.46,25,Yes
+BK00192,CUST1121,2024-03-29,2024-04-13,2024-04-17,Mobile App,Points Redemption,Ambassador,Suite,176.21,15,No
+BK00193,CUST6357,2024-02-01,2024-03-01,2024-03-09,Website,Points Redemption,Gold,Standard,728.04,15,No
+BK00194,CUST5236,2024-02-25,2024-03-12,2024-03-15,Mobile App,Points Redemption,Titanium,Presidential Suite,119.65,15,Yes
+BK00195,CUST8342,2024-01-18,2024-01-31,2024-02-02,Website,Bank Transfer,Non-Member,Deluxe,711.11,20,No
+BK00196,CUST4068,2024-03-20,2024-04-09,2024-04-18,Third-Party OTA,PayPal,Non-Member,Standard,410.71,20,Yes
+BK00197,CUST5926,2024-03-01,2024-03-26,2024-03-28,Website,PayPal,Ambassador,Standard,719.93,10,No
+BK00198,CUST3014,2024-03-10,2024-03-14,2024-03-20,Mobile App,Credit Card,Non-Member,Suite,836.99,15,No
+BK00199,CUST1322,2024-03-06,2024-03-26,2024-03-30,Mobile App,PayPal,Silver,Suite,1074.11,10,No
+BK00200,CUST1098,2024-02-17,2024-02-29,2024-03-07,Mobile App,Points Redemption,Non-Member,Suite,1355.02,0,No
+BK00201,CUST1773,2024-03-15,2024-04-01,2024-04-10,Mobile App,PayPal,Platinum,Standard,781.58,0,Yes
+BK00202,CUST8972,2024-01-21,2024-02-13,2024-02-21,Mobile App,Bank Transfer,Platinum,Presidential Suite,816.08,25,No
+BK00203,CUST5334,2024-03-02,2024-03-23,2024-03-27,Mobile App,Bank Transfer,Non-Member,Presidential Suite,793.39,20,No
+BK00204,CUST8898,2024-01-04,2024-02-02,2024-02-10,Third-Party OTA,Points Redemption,Titanium,Presidential Suite,1335.65,5,No
+BK00205,CUST5577,2024-02-14,2024-03-15,2024-03-22,Third-Party OTA,Credit Card,Silver,Deluxe,1160.12,15,No
+BK00206,CUST5353,2024-03-03,2024-03-04,2024-03-06,Third-Party OTA,Bank Transfer,Platinum,Deluxe,721.87,15,Yes
+BK00207,CUST2612,2024-01-14,2024-02-10,2024-02-16,Third-Party OTA,Credit Card,Titanium,Deluxe,610.71,15,No
+BK00208,CUST8196,2024-02-28,2024-03-26,2024-04-05,Mobile App,Bank Transfer,Platinum,Presidential Suite,1407.86,15,Yes
+BK00209,CUST4938,2024-03-26,2024-04-21,2024-04-25,Mobile App,PayPal,Gold,Deluxe,762.23,25,No
+BK00210,CUST6361,2024-03-02,2024-03-21,2024-03-25,Website,Points Redemption,Ambassador,Deluxe,1188.54,15,Yes
+BK00211,CUST5420,2024-01-22,2024-02-18,2024-02-25,Website,Points Redemption,Gold,Presidential Suite,1300.6,5,Yes
+BK00212,CUST5680,2024-01-21,2024-01-23,2024-02-01,Website,Credit Card,Gold,Deluxe,568.04,20,No
+BK00213,CUST6721,2024-01-31,2024-02-27,2024-03-06,Third-Party OTA,Bank Transfer,Non-Member,Deluxe,633.85,15,No
+BK00214,CUST7388,2024-01-17,2024-01-19,2024-01-20,Third-Party OTA,Bank Transfer,Platinum,Suite,1171.93,10,Yes
+BK00215,CUST3658,2024-01-05,2024-01-13,2024-01-18,Mobile App,Credit Card,Platinum,Standard,799.37,20,Yes
+BK00216,CUST7381,2024-01-15,2024-01-17,2024-01-24,Third-Party OTA,Points Redemption,Platinum,Suite,439.74,15,Yes
+BK00217,CUST8974,2024-03-06,2024-03-17,2024-03-18,Website,PayPal,Silver,Suite,1218.66,10,Yes
+BK00218,CUST3142,2024-03-29,2024-04-04,2024-04-07,Mobile App,Bank Transfer,Titanium,Suite,503.13,10,No
+BK00219,CUST8163,2024-01-06,2024-02-05,2024-02-08,Third-Party OTA,Points Redemption,Silver,Standard,1488.66,10,Yes
+BK00220,CUST8974,2024-01-15,2024-02-13,2024-02-18,Third-Party OTA,Credit Card,Platinum,Suite,1238.2,10,Yes
+BK00221,CUST6580,2024-01-17,2024-01-27,2024-02-05,Mobile App,PayPal,Gold,Presidential Suite,1217.3,15,Yes
+BK00222,CUST4859,2024-03-04,2024-03-20,2024-03-30,Website,Points Redemption,Platinum,Suite,696.67,10,No
+BK00223,CUST7978,2024-01-17,2024-01-29,2024-01-31,Third-Party OTA,Bank Transfer,Non-Member,Presidential Suite,503.38,15,Yes
+BK00224,CUST2213,2024-03-12,2024-04-03,2024-04-09,Mobile App,Bank Transfer,Ambassador,Presidential Suite,660.24,20,Yes
+BK00225,CUST3956,2024-01-10,2024-01-28,2024-01-29,Mobile App,Credit Card,Silver,Standard,453.76,0,No
+BK00226,CUST4974,2024-01-21,2024-01-30,2024-02-06,Website,Bank Transfer,Gold,Standard,177.8,25,Yes
+BK00227,CUST3001,2024-01-15,2024-01-19,2024-01-21,Website,Credit Card,Gold,Standard,1422.7,5,No
+BK00228,CUST2526,2024-02-19,2024-02-21,2024-02-29,Website,Credit Card,Titanium,Deluxe,453.01,25,No
+BK00229,CUST6046,2024-03-06,2024-03-12,2024-03-20,Website,Points Redemption,Titanium,Presidential Suite,1110.63,15,No
+BK00230,CUST6306,2024-01-28,2024-02-05,2024-02-09,Mobile App,Credit Card,Ambassador,Deluxe,1266.67,5,No
+BK00231,CUST4813,2024-02-14,2024-02-24,2024-03-03,Third-Party OTA,Points Redemption,Ambassador,Suite,1174.55,15,No
+BK00232,CUST9758,2024-02-26,2024-03-26,2024-04-01,Third-Party OTA,Bank Transfer,Ambassador,Standard,285.76,20,No
+BK00233,CUST4647,2024-01-30,2024-02-08,2024-02-13,Website,PayPal,Ambassador,Deluxe,1042.37,15,Yes
+BK00234,CUST1307,2024-02-06,2024-02-18,2024-02-28,Mobile App,Bank Transfer,Ambassador,Presidential Suite,348.21,20,No
+BK00235,CUST4980,2024-01-04,2024-01-06,2024-01-07,Website,Credit Card,Ambassador,Standard,693.55,10,Yes
+BK00236,CUST8478,2024-01-04,2024-01-20,2024-01-24,Mobile App,Credit Card,Non-Member,Suite,730.06,25,Yes
+BK00237,CUST2715,2024-01-19,2024-02-11,2024-02-16,Website,PayPal,Ambassador,Deluxe,1072.89,10,Yes
+BK00238,CUST6512,2024-03-28,2024-04-23,2024-05-01,Website,Bank Transfer,Silver,Deluxe,334.25,10,Yes
+BK00239,CUST4036,2024-01-30,2024-02-24,2024-03-01,Website,PayPal,Platinum,Deluxe,595.3,5,Yes
+BK00240,CUST2990,2024-01-03,2024-01-29,2024-02-05,Mobile App,Bank Transfer,Platinum,Deluxe,135.9,20,Yes
+BK00241,CUST6175,2024-03-08,2024-03-22,2024-04-01,Mobile App,Bank Transfer,Gold,Deluxe,658.63,10,No
+BK00242,CUST9609,2024-03-31,2024-04-11,2024-04-13,Third-Party OTA,Credit Card,Silver,Suite,1462.92,20,No
+BK00243,CUST5938,2024-01-22,2024-02-10,2024-02-15,Third-Party OTA,PayPal,Non-Member,Suite,151.03,20,No
+BK00244,CUST9340,2024-01-11,2024-01-25,2024-01-27,Third-Party OTA,Credit Card,Ambassador,Suite,452.46,0,No
+BK00245,CUST7783,2024-03-16,2024-03-28,2024-03-29,Mobile App,Credit Card,Gold,Presidential Suite,965.02,10,Yes
+BK00246,CUST8782,2024-02-16,2024-03-08,2024-03-11,Third-Party OTA,PayPal,Silver,Suite,824.33,0,No
+BK00247,CUST7914,2024-02-03,2024-02-18,2024-02-27,Third-Party OTA,Bank Transfer,Gold,Deluxe,537.25,20,No
+BK00248,CUST8848,2024-02-23,2024-03-06,2024-03-08,Website,Bank Transfer,Platinum,Standard,1439.08,20,No
+BK00249,CUST4194,2024-03-04,2024-03-14,2024-03-18,Third-Party OTA,Credit Card,Gold,Suite,1422.35,15,No
+BK00250,CUST3174,2024-02-22,2024-02-24,2024-02-29,Website,Credit Card,Silver,Standard,526.88,0,No
+BK00251,CUST9867,2024-02-06,2024-02-25,2024-03-05,Third-Party OTA,Bank Transfer,Non-Member,Suite,751.5,10,Yes
+BK00252,CUST1316,2024-01-09,2024-01-15,2024-01-19,Third-Party OTA,Credit Card,Silver,Presidential Suite,252.56,10,No
+BK00253,CUST1905,2024-01-13,2024-02-12,2024-02-19,Third-Party OTA,Credit Card,Ambassador,Standard,1382.32,20,Yes
+BK00254,CUST9168,2024-03-14,2024-04-06,2024-04-16,Third-Party OTA,PayPal,Ambassador,Deluxe,1396.01,10,No
+BK00255,CUST3449,2024-01-08,2024-01-17,2024-01-19,Website,Points Redemption,Silver,Presidential Suite,581.25,0,Yes
+BK00256,CUST4143,2024-01-25,2024-02-12,2024-02-20,Third-Party OTA,Credit Card,Non-Member,Suite,656.28,10,No
+BK00257,CUST5701,2024-01-05,2024-01-28,2024-02-07,Website,Credit Card,Gold,Deluxe,393.43,5,No
+BK00258,CUST3108,2024-03-24,2024-04-13,2024-04-15,Mobile App,Credit Card,Platinum,Deluxe,552.46,5,Yes
+BK00259,CUST6748,2024-01-04,2024-01-27,2024-02-06,Mobile App,Points Redemption,Silver,Presidential Suite,1404.11,10,Yes
+BK00260,CUST3776,2024-01-07,2024-01-10,2024-01-19,Website,PayPal,Platinum,Deluxe,1268.85,20,Yes
+BK00261,CUST2216,2024-03-27,2024-04-18,2024-04-25,Third-Party OTA,Credit Card,Ambassador,Presidential Suite,1198.92,5,No
+BK00262,CUST4069,2024-02-14,2024-03-14,2024-03-17,Mobile App,Points Redemption,Non-Member,Presidential Suite,337.59,0,Yes
+BK00263,CUST5791,2024-01-22,2024-02-05,2024-02-09,Third-Party OTA,Points Redemption,Ambassador,Presidential Suite,1185.53,25,No
+BK00264,CUST5812,2024-02-25,2024-03-15,2024-03-20,Website,Bank Transfer,Platinum,Deluxe,1274.37,25,Yes
+BK00265,CUST6824,2024-03-22,2024-04-09,2024-04-12,Mobile App,PayPal,Platinum,Presidential Suite,1101.37,10,Yes
+BK00266,CUST8598,2024-03-29,2024-04-04,2024-04-10,Website,Credit Card,Titanium,Presidential Suite,670.77,10,Yes
+BK00267,CUST4101,2024-02-25,2024-03-09,2024-03-17,Mobile App,PayPal,Ambassador,Suite,858.26,0,No
+BK00268,CUST5848,2024-03-14,2024-04-03,2024-04-08,Mobile App,Bank Transfer,Ambassador,Deluxe,1402.14,25,No
+BK00269,CUST2507,2024-02-15,2024-03-04,2024-03-11,Third-Party OTA,Credit Card,Ambassador,Presidential Suite,109.19,15,Yes
+BK00270,CUST2624,2024-03-22,2024-04-09,2024-04-10,Third-Party OTA,PayPal,Silver,Deluxe,782.02,20,No
+BK00271,CUST6912,2024-02-21,2024-02-25,2024-03-02,Website,Bank Transfer,Silver,Suite,1331.89,5,No
+BK00272,CUST6302,2024-01-12,2024-02-11,2024-02-17,Website,Credit Card,Titanium,Standard,650.18,10,No
+BK00273,CUST7963,2024-03-20,2024-04-02,2024-04-10,Third-Party OTA,Bank Transfer,Non-Member,Presidential Suite,1001.19,15,Yes
+BK00274,CUST3483,2024-03-30,2024-04-14,2024-04-21,Third-Party OTA,Bank Transfer,Titanium,Suite,335.03,10,Yes
+BK00275,CUST6447,2024-02-08,2024-03-09,2024-03-12,Mobile App,Points Redemption,Non-Member,Deluxe,699.13,0,No
+BK00276,CUST1842,2024-02-05,2024-03-02,2024-03-11,Mobile App,Credit Card,Titanium,Standard,145.55,15,Yes
+BK00277,CUST9308,2024-03-17,2024-04-03,2024-04-10,Website,Points Redemption,Titanium,Suite,1016.31,10,No
+BK00278,CUST3717,2024-02-01,2024-02-25,2024-02-27,Third-Party OTA,Bank Transfer,Titanium,Presidential Suite,119.82,15,No
+BK00279,CUST8688,2024-03-31,2024-04-02,2024-04-06,Website,Credit Card,Ambassador,Suite,1166.79,15,Yes
+BK00280,CUST5185,2024-03-01,2024-03-23,2024-03-25,Third-Party OTA,PayPal,Platinum,Deluxe,221.24,0,Yes
+BK00281,CUST9627,2024-02-02,2024-02-22,2024-02-28,Third-Party OTA,Points Redemption,Silver,Presidential Suite,1239.63,10,No
+BK00282,CUST6164,2024-02-09,2024-02-10,2024-02-14,Mobile App,Points Redemption,Gold,Deluxe,1252.25,15,Yes
+BK00283,CUST2191,2024-02-16,2024-03-13,2024-03-21,Third-Party OTA,Points Redemption,Platinum,Deluxe,1432.32,15,Yes
+BK00284,CUST7630,2024-03-07,2024-03-21,2024-03-28,Mobile App,Credit Card,Titanium,Standard,191.3,25,No
+BK00285,CUST3196,2024-02-27,2024-03-20,2024-03-29,Mobile App,Bank Transfer,Non-Member,Presidential Suite,674.37,25,No
+BK00286,CUST6908,2024-02-11,2024-02-25,2024-02-27,Website,Credit Card,Platinum,Suite,673.63,10,Yes
+BK00287,CUST4563,2024-03-06,2024-04-05,2024-04-12,Third-Party OTA,Credit Card,Gold,Standard,315.67,15,Yes
+BK00288,CUST7324,2024-03-18,2024-03-22,2024-03-28,Website,Points Redemption,Titanium,Suite,663.51,20,Yes
+BK00289,CUST5975,2024-03-19,2024-03-31,2024-04-09,Mobile App,PayPal,Platinum,Standard,362.53,20,Yes
+BK00290,CUST7466,2024-03-03,2024-03-16,2024-03-22,Mobile App,PayPal,Ambassador,Deluxe,123.37,5,No
+BK00291,CUST9362,2024-02-28,2024-03-18,2024-03-28,Website,PayPal,Titanium,Standard,1115.45,10,No
+BK00292,CUST8188,2024-01-09,2024-01-17,2024-01-19,Mobile App,Points Redemption,Gold,Deluxe,560.82,20,No
+BK00293,CUST8570,2024-03-26,2024-04-12,2024-04-20,Website,PayPal,Platinum,Presidential Suite,1465.86,10,No
+BK00294,CUST4616,2024-02-01,2024-02-05,2024-02-09,Website,PayPal,Platinum,Deluxe,290.5,20,Yes
+BK00295,CUST5636,2024-01-28,2024-02-13,2024-02-22,Website,PayPal,Gold,Standard,243.39,25,No
+BK00296,CUST6654,2024-03-06,2024-04-02,2024-04-11,Website,Credit Card,Ambassador,Deluxe,1385.11,5,No
+BK00297,CUST7783,2024-02-05,2024-02-11,2024-02-18,Website,PayPal,Ambassador,Presidential Suite,148.95,0,Yes
+BK00298,CUST3918,2024-01-04,2024-01-15,2024-01-16,Third-Party OTA,Points Redemption,Silver,Presidential Suite,1165.72,10,No
+BK00299,CUST7393,2024-02-12,2024-03-11,2024-03-20,Mobile App,Bank Transfer,Platinum,Presidential Suite,496.3,5,Yes
+BK00300,CUST6473,2024-02-01,2024-03-01,2024-03-07,Website,Credit Card,Platinum,Suite,1482.83,25,No
+BK00301,CUST3429,2024-03-01,2024-03-22,2024-03-28,Mobile App,PayPal,Silver,Presidential Suite,1054.26,10,Yes
+BK00302,CUST7847,2024-01-31,2024-02-09,2024-02-17,Third-Party OTA,Credit Card,Titanium,Standard,902.6,10,Yes
+BK00303,CUST1031,2024-01-19,2024-01-31,2024-02-10,Website,Bank Transfer,Gold,Suite,470.93,0,Yes
+BK00304,CUST3504,2024-01-20,2024-02-03,2024-02-10,Website,Bank Transfer,Silver,Standard,321.58,10,Yes
+BK00305,CUST6499,2024-03-17,2024-03-18,2024-03-25,Third-Party OTA,Bank Transfer,Ambassador,Presidential Suite,994.21,15,No
+BK00306,CUST3527,2024-03-04,2024-03-10,2024-03-19,Mobile App,PayPal,Ambassador,Standard,109.15,10,No
+BK00307,CUST9105,2024-03-18,2024-03-21,2024-03-29,Website,Points Redemption,Silver,Standard,1359.94,5,Yes
+BK00308,CUST5876,2024-02-27,2024-03-09,2024-03-11,Mobile App,Points Redemption,Non-Member,Presidential Suite,857.63,0,Yes
+BK00309,CUST1373,2024-03-06,2024-03-14,2024-03-22,Website,PayPal,Ambassador,Deluxe,271.81,0,No
+BK00310,CUST5744,2024-01-22,2024-02-13,2024-02-14,Third-Party OTA,PayPal,Titanium,Deluxe,645.6,0,No
+BK00311,CUST5096,2024-02-25,2024-03-24,2024-03-28,Mobile App,Bank Transfer,Gold,Standard,1010.52,25,No
+BK00312,CUST5829,2024-02-09,2024-02-19,2024-02-28,Website,Credit Card,Non-Member,Presidential Suite,1242.25,10,Yes
+BK00313,CUST8570,2024-03-03,2024-03-10,2024-03-20,Third-Party OTA,Credit Card,Platinum,Presidential Suite,176.99,25,Yes
+BK00314,CUST5407,2024-02-26,2024-03-14,2024-03-21,Website,Points Redemption,Non-Member,Standard,160.36,15,Yes
+BK00315,CUST3401,2024-01-12,2024-02-08,2024-02-11,Mobile App,Points Redemption,Non-Member,Deluxe,404.44,0,Yes
+BK00316,CUST5005,2024-02-13,2024-02-22,2024-02-24,Third-Party OTA,PayPal,Non-Member,Suite,302.26,20,No
+BK00317,CUST5661,2024-02-14,2024-03-05,2024-03-09,Website,PayPal,Ambassador,Suite,237.02,10,No
+BK00318,CUST1385,2024-01-31,2024-02-23,2024-02-28,Website,PayPal,Platinum,Presidential Suite,759.58,20,Yes
+BK00319,CUST4337,2024-02-09,2024-02-27,2024-03-03,Mobile App,Bank Transfer,Gold,Deluxe,375.38,10,No
+BK00320,CUST2725,2024-03-08,2024-04-07,2024-04-08,Website,PayPal,Non-Member,Deluxe,1464.33,15,No
+BK00321,CUST9919,2024-03-20,2024-03-27,2024-03-31,Website,Bank Transfer,Ambassador,Presidential Suite,1321.71,15,Yes
+BK00322,CUST2232,2024-02-28,2024-03-18,2024-03-20,Website,Credit Card,Titanium,Presidential Suite,158.71,5,No
+BK00323,CUST6545,2024-03-31,2024-04-12,2024-04-18,Website,Bank Transfer,Non-Member,Presidential Suite,1160.72,15,Yes
+BK00324,CUST4580,2024-03-26,2024-04-09,2024-04-13,Third-Party OTA,Credit Card,Non-Member,Suite,147.0,25,Yes
+BK00325,CUST6035,2024-03-23,2024-04-06,2024-04-10,Third-Party OTA,Credit Card,Ambassador,Suite,717.28,0,Yes
+BK00326,CUST5808,2024-03-05,2024-03-19,2024-03-26,Website,Credit Card,Gold,Presidential Suite,680.94,25,Yes
+BK00327,CUST6141,2024-03-03,2024-03-30,2024-03-31,Website,Credit Card,Platinum,Presidential Suite,732.58,10,No
+BK00328,CUST1297,2024-03-05,2024-04-01,2024-04-08,Website,PayPal,Silver,Suite,894.38,0,Yes
+BK00329,CUST5973,2024-02-23,2024-03-14,2024-03-15,Third-Party OTA,PayPal,Platinum,Presidential Suite,1077.86,20,No
+BK00330,CUST7564,2024-03-02,2024-03-13,2024-03-17,Website,PayPal,Gold,Standard,855.69,10,No
+BK00331,CUST3535,2024-01-27,2024-02-24,2024-02-29,Mobile App,Bank Transfer,Titanium,Suite,349.52,15,No
+BK00332,CUST8475,2024-02-26,2024-03-10,2024-03-13,Website,Points Redemption,Non-Member,Presidential Suite,654.2,20,No
+BK00333,CUST6766,2024-02-24,2024-03-06,2024-03-07,Third-Party OTA,PayPal,Non-Member,Presidential Suite,133.94,10,No
+BK00334,CUST9557,2024-03-25,2024-04-21,2024-04-28,Third-Party OTA,PayPal,Platinum,Deluxe,693.74,20,No
+BK00335,CUST4784,2024-01-05,2024-01-15,2024-01-23,Website,Bank Transfer,Non-Member,Presidential Suite,351.6,20,No
+BK00336,CUST3413,2024-02-10,2024-02-25,2024-02-26,Website,PayPal,Non-Member,Standard,294.3,5,Yes
+BK00337,CUST3431,2024-01-28,2024-01-29,2024-02-01,Website,Bank Transfer,Platinum,Standard,990.53,15,No
+BK00338,CUST7141,2024-03-24,2024-04-12,2024-04-15,Mobile App,Credit Card,Ambassador,Standard,909.34,15,No
+BK00339,CUST1469,2024-02-16,2024-03-11,2024-03-17,Third-Party OTA,Points Redemption,Gold,Standard,922.8,15,Yes
+BK00340,CUST2015,2024-02-27,2024-03-15,2024-03-20,Third-Party OTA,Bank Transfer,Silver,Suite,786.41,20,Yes
+BK00341,CUST3749,2024-01-07,2024-02-06,2024-02-10,Third-Party OTA,PayPal,Gold,Standard,1265.68,10,Yes
+BK00342,CUST7426,2024-02-09,2024-03-02,2024-03-11,Website,Bank Transfer,Non-Member,Suite,732.59,5,Yes
+BK00343,CUST2116,2024-03-31,2024-04-07,2024-04-17,Mobile App,Credit Card,Platinum,Standard,1268.2,10,Yes
+BK00344,CUST5651,2024-02-20,2024-03-03,2024-03-13,Website,Credit Card,Gold,Suite,790.38,20,No
+BK00345,CUST7978,2024-02-18,2024-02-29,2024-03-04,Website,Bank Transfer,Titanium,Presidential Suite,627.58,0,Yes
+BK00346,CUST1950,2024-03-18,2024-04-05,2024-04-14,Website,PayPal,Gold,Standard,474.08,0,Yes
+BK00347,CUST4298,2024-03-23,2024-04-17,2024-04-24,Third-Party OTA,Credit Card,Ambassador,Suite,599.16,25,No
+BK00348,CUST4936,2024-01-01,2024-01-26,2024-01-31,Mobile App,Credit Card,Platinum,Suite,202.33,5,Yes
+BK00349,CUST6577,2024-01-16,2024-02-12,2024-02-13,Website,Points Redemption,Silver,Presidential Suite,204.28,20,Yes
+BK00350,CUST7689,2024-02-12,2024-03-13,2024-03-20,Mobile App,Bank Transfer,Non-Member,Presidential Suite,820.76,25,No
+BK00351,CUST7245,2024-01-08,2024-01-22,2024-01-28,Third-Party OTA,Points Redemption,Gold,Standard,764.08,15,No
+BK00352,CUST9803,2024-01-26,2024-02-02,2024-02-10,Third-Party OTA,Points Redemption,Non-Member,Deluxe,737.27,20,Yes
+BK00353,CUST7251,2024-02-13,2024-02-19,2024-02-21,Third-Party OTA,Bank Transfer,Non-Member,Standard,236.37,25,Yes
+BK00354,CUST2632,2024-03-20,2024-04-16,2024-04-21,Website,Points Redemption,Ambassador,Presidential Suite,845.0,5,Yes
+BK00355,CUST8056,2024-01-10,2024-01-27,2024-01-29,Mobile App,Credit Card,Titanium,Standard,1488.79,20,Yes
+BK00356,CUST4740,2024-02-14,2024-03-03,2024-03-06,Website,PayPal,Platinum,Suite,1143.17,5,No
+BK00357,CUST2046,2024-02-24,2024-03-15,2024-03-25,Website,PayPal,Gold,Presidential Suite,904.68,0,No
+BK00358,CUST1578,2024-01-14,2024-01-29,2024-02-07,Third-Party OTA,PayPal,Silver,Suite,1152.23,25,Yes
+BK00359,CUST6662,2024-01-22,2024-02-11,2024-02-14,Third-Party OTA,PayPal,Titanium,Deluxe,1133.9,25,No
+BK00360,CUST1503,2024-03-03,2024-04-01,2024-04-07,Mobile App,Points Redemption,Non-Member,Presidential Suite,940.86,25,Yes
+BK00361,CUST9554,2024-03-01,2024-03-26,2024-03-30,Website,Points Redemption,Ambassador,Standard,686.66,15,Yes
+BK00362,CUST1605,2024-03-20,2024-04-07,2024-04-16,Mobile App,Points Redemption,Non-Member,Standard,850.32,0,Yes
+BK00363,CUST9187,2024-02-06,2024-02-21,2024-02-23,Third-Party OTA,Points Redemption,Titanium,Standard,269.92,5,No
+BK00364,CUST6219,2024-01-28,2024-02-21,2024-02-23,Mobile App,Bank Transfer,Non-Member,Presidential Suite,1095.7,5,No
+BK00365,CUST7075,2024-03-04,2024-03-08,2024-03-14,Mobile App,PayPal,Gold,Suite,1168.08,5,No
+BK00366,CUST3562,2024-01-27,2024-02-01,2024-02-11,Third-Party OTA,Points Redemption,Titanium,Suite,904.72,15,No
+BK00367,CUST2677,2024-02-17,2024-02-28,2024-03-08,Mobile App,PayPal,Ambassador,Deluxe,844.9,5,Yes
+BK00368,CUST8811,2024-01-24,2024-02-12,2024-02-21,Mobile App,Points Redemption,Ambassador,Suite,513.4,10,No
+BK00369,CUST1107,2024-03-23,2024-04-15,2024-04-24,Website,Points Redemption,Platinum,Presidential Suite,1178.15,15,Yes
+BK00370,CUST1852,2024-03-09,2024-03-20,2024-03-24,Third-Party OTA,Points Redemption,Platinum,Suite,893.71,5,Yes
+BK00371,CUST9181,2024-03-27,2024-04-21,2024-04-23,Mobile App,Credit Card,Non-Member,Suite,367.49,10,Yes
+BK00372,CUST7529,2024-02-28,2024-03-05,2024-03-12,Mobile App,Bank Transfer,Gold,Suite,1101.69,5,Yes
+BK00373,CUST4340,2024-02-01,2024-02-26,2024-03-03,Mobile App,PayPal,Platinum,Suite,886.71,20,No
+BK00374,CUST3956,2024-03-31,2024-04-30,2024-05-05,Third-Party OTA,Points Redemption,Gold,Presidential Suite,566.19,10,Yes
+BK00375,CUST3163,2024-01-26,2024-02-19,2024-02-23,Mobile App,Credit Card,Platinum,Presidential Suite,597.05,10,Yes
+BK00376,CUST8932,2024-01-26,2024-02-17,2024-02-18,Website,Credit Card,Ambassador,Presidential Suite,339.9,10,No
+BK00377,CUST5926,2024-03-16,2024-04-13,2024-04-21,Website,Credit Card,Titanium,Deluxe,350.86,25,Yes
+BK00378,CUST7706,2024-02-06,2024-02-20,2024-02-25,Website,Bank Transfer,Gold,Presidential Suite,661.38,10,Yes
+BK00379,CUST1789,2024-02-22,2024-02-25,2024-03-04,Mobile App,PayPal,Titanium,Suite,1067.07,25,Yes
+BK00380,CUST8985,2024-02-08,2024-02-26,2024-03-02,Mobile App,PayPal,Non-Member,Standard,396.54,0,Yes
+BK00381,CUST8309,2024-03-11,2024-04-02,2024-04-05,Third-Party OTA,Credit Card,Platinum,Suite,1129.99,10,Yes
+BK00382,CUST6603,2024-03-13,2024-04-08,2024-04-15,Mobile App,Credit Card,Titanium,Deluxe,696.73,5,Yes
+BK00383,CUST4874,2024-03-12,2024-04-10,2024-04-18,Website,Credit Card,Titanium,Presidential Suite,1487.41,25,Yes
+BK00384,CUST3379,2024-03-22,2024-04-15,2024-04-17,Website,PayPal,Gold,Suite,858.49,25,No
+BK00385,CUST1811,2024-01-05,2024-01-14,2024-01-20,Mobile App,Credit Card,Ambassador,Suite,700.43,10,No
+BK00386,CUST5701,2024-03-12,2024-03-14,2024-03-21,Mobile App,Credit Card,Silver,Deluxe,604.8,20,Yes
+BK00387,CUST3731,2024-03-13,2024-03-21,2024-03-28,Website,Points Redemption,Titanium,Standard,283.81,25,Yes
+BK00388,CUST9629,2024-02-18,2024-03-05,2024-03-10,Mobile App,Credit Card,Ambassador,Suite,1248.48,15,Yes
+BK00389,CUST8359,2024-03-04,2024-03-17,2024-03-22,Mobile App,Credit Card,Silver,Presidential Suite,1393.81,20,No
+BK00390,CUST8416,2024-02-28,2024-03-24,2024-03-31,Mobile App,PayPal,Silver,Deluxe,632.93,10,No
+BK00391,CUST7218,2024-02-05,2024-02-07,2024-02-13,Third-Party OTA,PayPal,Titanium,Suite,585.65,25,No
+BK00392,CUST9552,2024-01-07,2024-02-01,2024-02-09,Third-Party OTA,Points Redemption,Platinum,Deluxe,1198.3,20,No
+BK00393,CUST6488,2024-02-09,2024-02-26,2024-02-29,Website,Credit Card,Non-Member,Suite,768.48,0,No
+BK00394,CUST9718,2024-03-19,2024-04-03,2024-04-12,Third-Party OTA,Credit Card,Silver,Suite,719.16,15,Yes
+BK00395,CUST7546,2024-01-05,2024-01-10,2024-01-16,Mobile App,Points Redemption,Titanium,Standard,803.28,10,No
+BK00396,CUST1693,2024-01-24,2024-02-09,2024-02-13,Third-Party OTA,Bank Transfer,Titanium,Deluxe,112.35,0,Yes
+BK00397,CUST8377,2024-03-05,2024-03-11,2024-03-12,Mobile App,Credit Card,Gold,Deluxe,792.2,10,Yes
+BK00398,CUST1988,2024-02-13,2024-02-23,2024-02-25,Mobile App,Credit Card,Gold,Standard,253.54,25,No
+BK00399,CUST6894,2024-01-25,2024-02-19,2024-02-27,Mobile App,Bank Transfer,Gold,Suite,987.5,15,Yes
+BK00400,CUST2192,2024-03-22,2024-03-30,2024-04-02,Website,Credit Card,Non-Member,Deluxe,177.93,25,Yes
+BK00401,CUST7763,2024-02-25,2024-03-08,2024-03-12,Third-Party OTA,Bank Transfer,Gold,Presidential Suite,1448.37,0,No
+BK00402,CUST3556,2024-03-02,2024-03-29,2024-04-07,Third-Party OTA,PayPal,Gold,Presidential Suite,1214.16,20,Yes
+BK00403,CUST2411,2024-02-26,2024-03-12,2024-03-14,Mobile App,PayPal,Titanium,Standard,1450.36,10,Yes
+BK00404,CUST5642,2024-01-06,2024-01-18,2024-01-27,Mobile App,Bank Transfer,Gold,Deluxe,898.28,5,Yes
+BK00405,CUST2310,2024-02-27,2024-03-26,2024-04-03,Website,PayPal,Gold,Suite,1365.7,0,No
+BK00406,CUST9901,2024-02-19,2024-03-15,2024-03-16,Mobile App,Points Redemption,Ambassador,Suite,994.4,0,No
+BK00407,CUST9554,2024-03-01,2024-03-02,2024-03-04,Website,Bank Transfer,Silver,Presidential Suite,1129.97,10,Yes
+BK00408,CUST6186,2024-03-13,2024-03-25,2024-03-31,Third-Party OTA,Points Redemption,Non-Member,Deluxe,416.92,10,Yes
+BK00409,CUST6327,2024-03-06,2024-03-23,2024-03-25,Website,PayPal,Gold,Suite,602.85,15,No
+BK00410,CUST5052,2024-01-09,2024-01-12,2024-01-17,Mobile App,Bank Transfer,Silver,Presidential Suite,259.23,15,No
+BK00411,CUST8627,2024-03-17,2024-03-18,2024-03-21,Third-Party OTA,Credit Card,Non-Member,Deluxe,765.47,20,Yes
+BK00412,CUST2974,2024-03-25,2024-04-15,2024-04-24,Third-Party OTA,Credit Card,Ambassador,Presidential Suite,795.28,10,No
+BK00413,CUST7498,2024-02-07,2024-02-26,2024-02-29,Website,Bank Transfer,Titanium,Presidential Suite,413.61,25,Yes
+BK00414,CUST9228,2024-02-29,2024-03-20,2024-03-25,Third-Party OTA,PayPal,Non-Member,Suite,921.74,5,Yes
+BK00415,CUST7814,2024-03-29,2024-04-01,2024-04-05,Website,PayPal,Gold,Deluxe,836.87,20,Yes
+BK00416,CUST8355,2024-01-21,2024-01-28,2024-02-06,Website,Credit Card,Silver,Standard,1028.38,5,No
+BK00417,CUST2555,2024-01-24,2024-01-30,2024-01-31,Mobile App,Points Redemption,Gold,Standard,1498.06,10,Yes
+BK00418,CUST3924,2024-01-24,2024-02-23,2024-03-02,Mobile App,Bank Transfer,Platinum,Presidential Suite,699.42,25,No
+BK00419,CUST8326,2024-02-10,2024-02-24,2024-03-03,Third-Party OTA,Credit Card,Ambassador,Suite,1280.14,15,Yes
+BK00420,CUST5868,2024-01-31,2024-02-20,2024-02-26,Third-Party OTA,Credit Card,Titanium,Standard,1404.69,5,Yes
+BK00421,CUST3188,2024-03-18,2024-03-27,2024-04-04,Website,Points Redemption,Ambassador,Presidential Suite,529.99,5,Yes
+BK00422,CUST9574,2024-02-11,2024-03-03,2024-03-06,Third-Party OTA,Credit Card,Ambassador,Suite,976.81,20,No
+BK00423,CUST9618,2024-02-29,2024-03-26,2024-03-29,Mobile App,Credit Card,Silver,Deluxe,303.87,5,Yes
+BK00424,CUST3943,2024-01-29,2024-02-17,2024-02-19,Mobile App,Credit Card,Titanium,Standard,966.37,15,No
+BK00425,CUST3667,2024-03-06,2024-03-10,2024-03-11,Website,Credit Card,Non-Member,Deluxe,1488.01,20,No
+BK00426,CUST3339,2024-03-27,2024-04-09,2024-04-14,Mobile App,Credit Card,Silver,Suite,624.08,0,Yes
+BK00427,CUST2047,2024-01-01,2024-01-14,2024-01-21,Mobile App,Points Redemption,Titanium,Deluxe,1219.04,10,No
+BK00428,CUST4409,2024-02-20,2024-03-15,2024-03-18,Mobile App,Points Redemption,Non-Member,Standard,1458.36,15,No
+BK00429,CUST2642,2024-02-21,2024-02-22,2024-02-27,Website,Points Redemption,Non-Member,Suite,1366.59,20,Yes
+BK00430,CUST6120,2024-02-22,2024-03-08,2024-03-16,Mobile App,Points Redemption,Silver,Standard,1020.7,15,No
+BK00431,CUST5825,2024-02-19,2024-03-11,2024-03-13,Mobile App,Bank Transfer,Non-Member,Presidential Suite,162.49,20,Yes
+BK00432,CUST1403,2024-03-15,2024-04-03,2024-04-11,Third-Party OTA,Bank Transfer,Silver,Presidential Suite,854.05,0,No
+BK00433,CUST3989,2024-03-12,2024-04-08,2024-04-09,Website,PayPal,Titanium,Standard,656.87,10,Yes
+BK00434,CUST2774,2024-03-17,2024-03-18,2024-03-24,Website,Points Redemption,Gold,Deluxe,433.43,25,No
+BK00435,CUST8720,2024-01-25,2024-02-11,2024-02-14,Mobile App,Bank Transfer,Titanium,Deluxe,1457.62,15,No
+BK00436,CUST1873,2024-03-20,2024-04-05,2024-04-15,Website,Bank Transfer,Titanium,Standard,1081.78,0,Yes
+BK00437,CUST8478,2024-03-29,2024-04-28,2024-05-01,Website,PayPal,Gold,Standard,807.95,20,Yes
+BK00438,CUST2372,2024-02-02,2024-03-01,2024-03-07,Third-Party OTA,PayPal,Silver,Suite,1020.14,20,No
+BK00439,CUST6477,2024-01-08,2024-02-06,2024-02-13,Website,Credit Card,Silver,Deluxe,299.29,20,Yes
+BK00440,CUST2322,2024-03-23,2024-04-17,2024-04-22,Mobile App,Credit Card,Non-Member,Suite,658.26,10,No
+BK00441,CUST4101,2024-03-24,2024-03-27,2024-03-29,Mobile App,Bank Transfer,Platinum,Standard,884.22,20,No
+BK00442,CUST1987,2024-02-14,2024-03-12,2024-03-14,Website,Credit Card,Titanium,Standard,943.16,25,Yes
+BK00443,CUST7540,2024-03-01,2024-03-10,2024-03-16,Mobile App,Credit Card,Gold,Presidential Suite,613.9,0,Yes
+BK00444,CUST5804,2024-03-23,2024-04-14,2024-04-24,Mobile App,PayPal,Titanium,Presidential Suite,165.46,10,Yes
+BK00445,CUST2037,2024-03-06,2024-03-10,2024-03-14,Website,Points Redemption,Titanium,Presidential Suite,476.04,25,Yes
+BK00446,CUST6399,2024-03-20,2024-03-21,2024-03-29,Website,Credit Card,Gold,Presidential Suite,818.79,25,No
+BK00447,CUST2088,2024-03-14,2024-03-16,2024-03-22,Mobile App,PayPal,Ambassador,Presidential Suite,723.36,25,No
+BK00448,CUST9608,2024-03-01,2024-03-05,2024-03-14,Website,PayPal,Ambassador,Standard,774.18,0,Yes
+BK00449,CUST3909,2024-02-03,2024-02-17,2024-02-19,Mobile App,Points Redemption,Platinum,Presidential Suite,1277.86,25,Yes
+BK00450,CUST1444,2024-03-13,2024-04-03,2024-04-09,Website,Bank Transfer,Platinum,Deluxe,1235.36,15,Yes
+BK00451,CUST8385,2024-03-01,2024-03-29,2024-04-07,Third-Party OTA,Credit Card,Gold,Presidential Suite,981.31,15,No
+BK00452,CUST7698,2024-03-18,2024-04-10,2024-04-14,Third-Party OTA,PayPal,Titanium,Suite,1156.96,5,No
+BK00453,CUST3429,2024-01-23,2024-02-01,2024-02-09,Website,Points Redemption,Platinum,Suite,1382.96,25,No
+BK00454,CUST4243,2024-02-25,2024-03-13,2024-03-20,Third-Party OTA,PayPal,Platinum,Deluxe,1151.8,25,Yes
+BK00455,CUST1269,2024-02-08,2024-02-11,2024-02-17,Third-Party OTA,Credit Card,Non-Member,Standard,377.89,5,Yes
+BK00456,CUST7832,2024-02-02,2024-02-04,2024-02-12,Website,Points Redemption,Gold,Deluxe,554.23,25,Yes
+BK00457,CUST4412,2024-01-29,2024-02-20,2024-02-23,Mobile App,Points Redemption,Gold,Suite,146.7,20,Yes
+BK00458,CUST7063,2024-03-14,2024-04-07,2024-04-09,Mobile App,Bank Transfer,Silver,Deluxe,573.12,10,Yes
+BK00459,CUST9880,2024-02-27,2024-03-27,2024-03-31,Third-Party OTA,Bank Transfer,Platinum,Standard,327.71,20,No
+BK00460,CUST8149,2024-03-29,2024-04-09,2024-04-15,Mobile App,Credit Card,Ambassador,Suite,366.1,5,No
+BK00461,CUST7260,2024-03-07,2024-03-20,2024-03-25,Mobile App,PayPal,Titanium,Deluxe,1219.48,5,No
+BK00462,CUST5508,2024-03-30,2024-04-06,2024-04-08,Mobile App,Bank Transfer,Platinum,Suite,1117.27,20,Yes
+BK00463,CUST1730,2024-02-21,2024-03-05,2024-03-10,Website,Bank Transfer,Non-Member,Presidential Suite,769.16,25,No
+BK00464,CUST1556,2024-02-14,2024-02-22,2024-03-03,Website,PayPal,Titanium,Standard,580.37,0,Yes
+BK00465,CUST8976,2024-03-19,2024-04-03,2024-04-11,Website,Points Redemption,Platinum,Deluxe,621.34,15,No
+BK00466,CUST1687,2024-01-15,2024-01-19,2024-01-28,Website,Bank Transfer,Gold,Deluxe,499.21,25,Yes
+BK00467,CUST5145,2024-01-02,2024-01-26,2024-01-31,Third-Party OTA,Points Redemption,Platinum,Suite,162.11,10,No
+BK00468,CUST1680,2024-03-28,2024-04-23,2024-04-26,Mobile App,Bank Transfer,Silver,Standard,1319.58,0,Yes
+BK00469,CUST1514,2024-01-29,2024-02-27,2024-03-02,Mobile App,Bank Transfer,Silver,Deluxe,1288.57,10,No
+BK00470,CUST7329,2024-03-04,2024-03-27,2024-04-02,Website,Points Redemption,Gold,Presidential Suite,942.17,20,Yes
+BK00471,CUST4517,2024-03-26,2024-04-06,2024-04-15,Third-Party OTA,Points Redemption,Non-Member,Standard,628.12,20,Yes
+BK00472,CUST2632,2024-03-21,2024-03-29,2024-03-30,Third-Party OTA,PayPal,Non-Member,Standard,969.75,0,Yes
+BK00473,CUST1995,2024-01-21,2024-01-29,2024-02-03,Third-Party OTA,Bank Transfer,Gold,Suite,1300.13,25,No
+BK00474,CUST6571,2024-03-08,2024-03-11,2024-03-15,Website,Points Redemption,Platinum,Standard,1406.38,20,No
+BK00475,CUST1076,2024-02-27,2024-03-22,2024-03-30,Website,PayPal,Titanium,Deluxe,214.03,15,Yes
+BK00476,CUST1758,2024-02-12,2024-02-28,2024-03-07,Website,Points Redemption,Platinum,Deluxe,391.74,10,No
+BK00477,CUST4778,2024-02-26,2024-03-01,2024-03-04,Third-Party OTA,Bank Transfer,Non-Member,Suite,448.54,0,Yes
+BK00478,CUST5291,2024-03-04,2024-03-25,2024-03-29,Website,Credit Card,Silver,Deluxe,246.67,0,No
+BK00479,CUST9579,2024-03-19,2024-03-22,2024-03-27,Third-Party OTA,Points Redemption,Titanium,Deluxe,585.84,10,No
+BK00480,CUST8106,2024-02-14,2024-03-13,2024-03-18,Mobile App,Credit Card,Silver,Deluxe,1238.1,10,Yes
+BK00481,CUST1954,2024-02-06,2024-02-11,2024-02-17,Mobile App,Points Redemption,Titanium,Standard,1306.64,20,Yes
+BK00482,CUST1043,2024-03-07,2024-04-03,2024-04-12,Third-Party OTA,PayPal,Platinum,Standard,1471.45,0,No
+BK00483,CUST6566,2024-03-03,2024-03-05,2024-03-06,Mobile App,Points Redemption,Silver,Presidential Suite,1481.15,5,No
+BK00484,CUST7326,2024-02-23,2024-03-24,2024-04-03,Third-Party OTA,Points Redemption,Platinum,Presidential Suite,143.15,10,Yes
+BK00485,CUST3437,2024-02-03,2024-02-04,2024-02-14,Third-Party OTA,Credit Card,Platinum,Standard,736.76,25,No
+BK00486,CUST5529,2024-03-01,2024-03-28,2024-04-07,Website,Points Redemption,Silver,Presidential Suite,1432.71,15,Yes
+BK00487,CUST1590,2024-01-28,2024-02-13,2024-02-14,Third-Party OTA,PayPal,Platinum,Standard,1043.84,15,Yes
+BK00488,CUST1770,2024-01-19,2024-01-27,2024-02-02,Website,Bank Transfer,Ambassador,Suite,1030.62,15,Yes
+BK00489,CUST2542,2024-03-19,2024-04-12,2024-04-21,Third-Party OTA,Credit Card,Ambassador,Standard,331.14,5,Yes
+BK00490,CUST7884,2024-03-02,2024-03-29,2024-04-04,Mobile App,Points Redemption,Non-Member,Presidential Suite,1093.97,25,Yes
+BK00491,CUST7770,2024-01-31,2024-02-13,2024-02-22,Website,Bank Transfer,Platinum,Suite,613.37,5,No
+BK00492,CUST9209,2024-02-13,2024-03-02,2024-03-10,Third-Party OTA,Credit Card,Non-Member,Deluxe,538.93,10,No
+BK00493,CUST3369,2024-01-17,2024-02-13,2024-02-16,Mobile App,Bank Transfer,Non-Member,Deluxe,244.81,20,No
+BK00494,CUST2398,2024-03-30,2024-04-11,2024-04-16,Mobile App,Bank Transfer,Platinum,Presidential Suite,1329.28,15,No
+BK00495,CUST1000,2024-02-05,2024-02-28,2024-03-07,Third-Party OTA,PayPal,Silver,Suite,792.43,5,No
+BK00496,CUST7935,2024-02-22,2024-03-06,2024-03-12,Website,PayPal,Titanium,Suite,540.81,10,No
+BK00497,CUST3145,2024-03-11,2024-03-23,2024-03-26,Third-Party OTA,PayPal,Silver,Suite,202.87,25,No
+BK00498,CUST2282,2024-02-10,2024-02-25,2024-03-06,Mobile App,Bank Transfer,Ambassador,Suite,1082.78,15,No
+BK00499,CUST3890,2024-01-19,2024-01-29,2024-02-06,Website,PayPal,Ambassador,Presidential Suite,412.0,5,No
+BK00500,CUST1035,2024-02-03,2024-02-10,2024-02-16,Website,PayPal,Ambassador,Suite,1152.3,15,Yes
