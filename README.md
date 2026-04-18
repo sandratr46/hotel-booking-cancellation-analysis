@@ -47,7 +47,5 @@ Non-member customers cancel more frequently than loyalty members.
 ## Dashboard Preview
 
 ### Overview Dashboard
-(add screenshot here)
 
 ### Drivers Analysis
-(add screenshot here)
