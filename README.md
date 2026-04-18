@@ -1,1 +1,53 @@
-# data-analytics-portfolio
+# Hotel Booking Cancellation Analysis
+
+## Business Problem
+Hotel cancellations lead to revenue loss and affect operational planning.
+The goal of this project is to identify key factors driving booking cancellations.
+
+---
+
+## Tools Used
+- Power BI
+- Excel
+- Data visualization
+- Business analysis
+
+---
+
+## Dataset
+Hotel booking dataset including:
+- booking channel
+- customer segment
+- room type
+- lead time
+- revenue
+
+---
+
+## Key Insights
+
+### High cancellation rate
+47.8% of bookings were cancelled, resulting in approximately $191K revenue loss.
+
+### Highest risk booking channel
+Website bookings generated the highest number of cancellations and revenue loss.
+
+### High-risk customer segment
+Non-member customers cancel more frequently than loyalty members.
+
+---
+
+## Business Recommendations
+- Encourage loyalty membership
+- Improve cancellation policy for website bookings
+- Offer incentives for committed bookings
+
+---
+
+## Dashboard Preview
+
+### Overview Dashboard
+(add screenshot here)
+
+### Drivers Analysis
+(add screenshot here)
