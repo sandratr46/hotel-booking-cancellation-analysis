@@ -1,3 +1,4 @@
+<img width="681" height="392" alt="Screenshot 2026-04-19 at 18 28 16" src="https://github.com/user-attachments/assets/67881e33-f3c9-45cf-8f40-2acbc5e263a3" />
 # Hotel Booking Cancellation Analysis
 
 ## Business Problem
@@ -47,7 +48,6 @@ Non-member customers cancel more frequently than loyalty members.
 ## Dashboard Preview
 
 ### Overview Dashboard
-
-
+<img width="681" height="392" alt="Screenshot 2026-04-19 at 18 28 38" src="https://github.com/user-attachments/assets/fb399dd4-72c4-4d12-962b-705215f5aaab" />
 ### Drivers Analysis
 <img width="864" height="495" alt="Screenshot 2026-04-19 at 18 27 00" src="https://github.com/user-attachments/assets/4fe47668-b4f9-4fa7-b346-bad2851673f4" />
