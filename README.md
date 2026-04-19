@@ -1,4 +1,3 @@
-<img width="681" height="392" alt="Screenshot 2026-04-19 at 18 28 16" src="https://github.com/user-attachments/assets/67881e33-f3c9-45cf-8f40-2acbc5e263a3" />
 # Hotel Booking Cancellation Analysis
 
 ## Business Problem
